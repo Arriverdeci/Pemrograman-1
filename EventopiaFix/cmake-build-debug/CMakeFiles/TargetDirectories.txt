@@ -1,0 +1,3 @@
+C:/Users/student/OneDrive - Politeknik Astra/Dokumen/PRG/EventopiaFix/cmake-build-debug/CMakeFiles/Eventopia.dir
+C:/Users/student/OneDrive - Politeknik Astra/Dokumen/PRG/EventopiaFix/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/student/OneDrive - Politeknik Astra/Dokumen/PRG/EventopiaFix/cmake-build-debug/CMakeFiles/rebuild_cache.dir
